@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React,Python**
+- 💬 Ask me about **React,Python,Java**
 
 - 📫 How to reach me **kiranteja.kandiboyina@gmail.com**
 
