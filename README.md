@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Teja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **React,Python,Java**
 
