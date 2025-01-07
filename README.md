@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiran Teja</h1>
-<h3 align="center">A Passionate APi developer from India</h3>
+<h3 align="center">A Passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m Proficient in **FastAPI, Slim**
+
+- 🌱 I’m currently learning **Gin, Flask**
 
 - 💬 Ask me about **React,Python,Java**
 
