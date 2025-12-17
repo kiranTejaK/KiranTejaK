@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kiran Teja</h1>
 <h3 align="center">A Passionate Backend developer from India</h3>
 
-- 🌱 I’m Proficient in **FastAPI, Slim**
+- 🌱 I’m Proficient in **FastAPI, Slim, Springboot(JDBCTemplate)**
 
-- 🌱 I’m currently learning **Gin, Flask**
+- 🌱 I’m currently learning **AWS, Nginix, Clodflare**
 
-- 💬 Ask me about **React,Python,Java**
+- 💬 Ask me about **Python, React,Java**
 
 - 📫 How to reach me **kiranteja.kandiboyina@gmail.com**
 
