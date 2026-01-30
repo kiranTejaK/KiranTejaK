@@ -5,10 +5,10 @@
   Focused on building scalable server-side applications and optimizing database performance. Currently bridging the gap between Backend Engineering and DevOps.
 </p>
 
-- 🚀 **Proficient in:** FastAPI, Slim, Spring Boot (JDBCTemplate)
+- 🚀 **Proficient in:** FastAPI, Slim
 - 💾 **Database Expertise:** MySQL (SPs, Functions, Triggers), PostgreSQL, SQLModel, Alembic
-- 🌱 **Learning Path:** AWS, Nginx, Cloudflare (Infrastructure & Deployment)
-- 💬 **Ask me about:** Python, Java, SQL Optimization
+- 🌱 **Learning Path:** AWS, Traefik, Cloudflare (Infrastructure & Deployment)
+- 💬 **Ask me about:** Python, SQL Optimization
 - 📫 **Reach me at:** [kiranteja.kandiboyina@gmail.com](mailto:kiranteja.kandiboyina@gmail.com)
 - 📄 **Resume/Experiences:** [View My CV](https://docs.google.com/document/d/1rcM4NieywzzvfFmu7pUrDo8EhWmNWzduoqi5QAasPNk/)
 
