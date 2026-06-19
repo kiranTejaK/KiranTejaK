@@ -1,48 +1,47 @@
 <h1 align="center">Hi 👋, I'm Kiran Teja</h1>
-<h3 align="center">A Passionate Backend Developer from India</h3>
+<h3 align="center">Backend Engineer specialized in Production-Grade Distributed Systems</h3>
 
 <p align="left">
-  Focused on building scalable server-side applications and optimizing database performance. Currently bridging the gap between Backend Engineering and DevOps.
+  Performance-driven Backend Engineer focused on designing asynchronous workflows, event-driven architecture, and optimizing data infrastructure. Thriving in fast-paced startup environments to deliver scalable, high-throughput backend systems.
 </p>
 
-- 🚀 **Proficient in:** FastAPI, Slim
-- 💾 **Database Expertise:** MySQL (SPs, Functions, Triggers), PostgreSQL, SQLModel, Alembic
-- 🌱 **Learning Path:** AWS, Traefik, Cloudflare (Infrastructure & Deployment)
-- 💬 **Ask me about:** Python, SQL Optimization
+- 🚀 **Core Stack:** FastAPI, SQLAlchemy 2.0, Pydantic V2, Slim (PHP)
+- 🗄️ **Data & Caching Infrastructure:** PostgreSQL, MySQL, Redis (Advanced Key/TTL Design)
+- 🏗️ **Distributed Systems & Event Streaming:** Apache Kafka, Kafka Streams, Debezium (CDC), AWS SQS
+- 🐳 **DevOps & Cloud Ecosystem:** AWS (EC2, S3, RDS), Docker, Docker Compose, Traefik
+- 💬 **Ask me about:** Python Performance, Query Optimization, System Design, Asynchronous Processing Pipelines
 - 📫 **Reach me at:** [kiranteja.kandiboyina@gmail.com](mailto:kiranteja.kandiboyina@gmail.com)
 - 📄 **Resume/Experiences:** [View My CV](https://docs.google.com/document/d/1rcM4NieywzzvfFmu7pUrDo8EhWmNWzduoqi5QAasPNk/)
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠️ Languages and Tools
 
-#### **Core Backend & Databases (Active)**
+#### **Core Backend, Data & Infrastructure**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-#### **Currently Inactive / Previous Experience**
+#### **Secondary Stack / Prior Context**
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
 </p>
 
 ---
 
-### 📊 Stats
+### 📊 Git Metrics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=KiranTejaK&show_icons=true&theme=radical" alt="Kiran Teja GitHub Stats" />
 </p>
