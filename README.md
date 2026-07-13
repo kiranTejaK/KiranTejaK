@@ -2,17 +2,23 @@
 <h3 align="center">Backend Engineer specialized in Production-Grade Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <!-- Socials -->
+  <a href="https://linkedin.com/in/kiran-teja-kandiboyina" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">
+  <a href="https://medium.com/@kirant3ja" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:kiranteja.kandiboyina@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://docs.google.com/document/d/1rcM4NieywzzvfFmu7pUrDo8EhWmNWzduoqi5QAasPNk/preview" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  
+  <!-- Resume Action Buttons -->
+  <a href="https://github.com/KiranTejaK/KiranTejaK/blob/main/kiranteja_backned_engineer_resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" />
+  </a>
+  <a href="https://github.com/KiranTejaK/KiranTejaK/raw/main/resume.pdf" download="Kiran_Teja_Backend_engineer_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-E68523?style=for-the-badge&logo=git&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 
