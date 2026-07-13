@@ -14,7 +14,7 @@
   </a>
   
   <!-- Resume Action Buttons -->
-  <a href="https://github.com/KiranTejaK/KiranTejaK/blob/main/kiranteja_backned_engineer_resume.pdf" target="_blank">
+  <a href="https://github.com/KiranTejaK/KiranTejaK/blob/main/kiranteja_backend_engineer_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="View Resume" />
   </a>
   <a href="https://github.com/KiranTejaK/KiranTejaK/raw/main/resume.pdf" download="Kiran_Teja_Backend_engineer_Resume.pdf">
