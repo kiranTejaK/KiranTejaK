@@ -42,6 +42,10 @@
 ---
 
 ### 📊 Git Metrics
+# <p align="left">
+# <img src="https://github-readme-stats.vercel.app/api?username=KiranTejaK&show_icons=true&theme=radical" alt="Kiran Teja GitHub Stats" />
+# </p>
+### 📊 Git Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KiranTejaK&show_icons=true&theme=radical" alt="Kiran Teja GitHub Stats" />
+<img src="github-stats.svg" alt="Kiran Teja GitHub Stats" />
 </p>
