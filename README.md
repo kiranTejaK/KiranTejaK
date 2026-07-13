@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kiran Teja</h1>
 <h3 align="center">Backend Engineer specialized in Production-Grade Distributed Systems</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:kiranteja.kandiboyina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://docs.google.com/document/d/1rcM4NieywzzvfFmu7pUrDo8EhWmNWzduoqi5QAasPNk/preview" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 <p align="left">
   Performance-driven Backend Engineer focused on designing asynchronous workflows, event-driven architecture, and optimizing data infrastructure. Thriving in fast-paced startup environments to deliver scalable, high-throughput backend systems.
 </p>
@@ -10,8 +25,6 @@
 - 🏗️ **Distributed Systems & Event Streaming:** Apache Kafka, Kafka Streams, Debezium (CDC), AWS SQS
 - 🐳 **DevOps & Cloud Ecosystem:** AWS (EC2, S3, RDS), Docker, Docker Compose, Traefik
 - 💬 **Ask me about:** Python Performance, Query Optimization, System Design, Asynchronous Processing Pipelines
-- 📫 **Reach me at:** [kiranteja.kandiboyina@gmail.com](mailto:kiranteja.kandiboyina@gmail.com)
-- 📄 **Resume/Experiences:** [View My CV](https://docs.google.com/document/d/1rcM4NieywzzvfFmu7pUrDo8EhWmNWzduoqi5QAasPNk/)
 
 ---
 
