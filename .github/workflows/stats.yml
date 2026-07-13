@@ -1,0 +1,22 @@
+name: Update GitHub Stats SVG
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Fetch Stats Card
+        run: |
+          curl -s "https://github-readme-stats-eight-theta.vercel.app/api?username=KiranTejaK&show_icons=true&theme=radical" > github-stats.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update github stats svg" && git push)
